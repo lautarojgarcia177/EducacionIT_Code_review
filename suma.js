@@ -1,3 +1,3 @@
-export function suma(x, y) {
-  return x + y;
+export function suma(x, y, z) {
+  return x + y + z;
 }
